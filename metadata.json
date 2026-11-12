@@ -1,0 +1,6 @@
+{
+  "name": "کارت دعوت هوشمند و مدرن مراسم عقد",
+  "description": "کارت دعوت آنلاین و لوکس مراسم عقد با انیمیشن پاکت، لینک اختصاصی برای مهمانان، اعلام حضور و قابلیت قرار دادن روی گیت‌هاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
